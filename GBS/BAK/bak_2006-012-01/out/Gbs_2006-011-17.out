@@ -1,0 +1,131 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang4105{\fonttbl{\f0\fnil Courier New;}{\f1\fswiss\fcharset0 Arial;}}
+{\colortbl ;\red0\green0\blue255;\red255\green255\blue255;}
+{\*\generator Msftedit 5.41.15.1503;}\viewkind4\uc1\pard\cf1\highlight2\f0\fs20 BeaconServer.DEBUG_LEVEL = 2\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.initialize()\cf0\highlight0\par
+\cf1\highlight2 BeaconLoader.DEBUG_LEVEL = 2\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.DEBUG_LEVEL = 2\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.init()\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.getGbsMenuBar()\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.setMyContentPane()\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.getTopEnclosingPanel()\cf0\highlight0\par
+\cf1\highlight2 Create BeaconLoader.SavedGame\cf0\highlight0\par
+\cf1\highlight2 System line separator length = 2\cf0\highlight0\par
+\cf1\highlight2 System line separator is "13:10" and space is "32"\cf0\highlight0\par
+\cf1\highlight2 Row #0\cf0\highlight0\par
+\cf1\highlight2 29 64  \\\\EOL1 EOL2\cf0\highlight0\par
+\cf1\highlight2 Row #1\cf0\highlight0\par
+\cf1\highlight2 14 32 51 77  \\\\EOL1 EOL2\cf0\highlight0\par
+\cf1\highlight2 Row #2\cf0\highlight0\par
+\cf1\highlight2 07 13 72 89  \\\\EOL1 EOL2\cf0\highlight0\par
+\cf1\highlight2 Row #3\cf0\highlight0\par
+\cf1\highlight2 26 35 59 61  \\\\EOL1 EOL2\cf0\highlight0\par
+\cf1\highlight2 Row #4\cf0\highlight0\par
+\cf1\highlight2 02 84  \\\\EOL1 EOL2\cf0\highlight0\par
+\cf1\highlight2 Row #5\cf0\highlight0\par
+\cf1\highlight2 24 33 58 65  \\\\EOL1 EOL2\cf0\highlight0\par
+\cf1\highlight2 Row #6\cf0\highlight0\par
+\cf1\highlight2 03 16 75 88  \\\\EOL1 EOL2\cf0\highlight0\par
+\cf1\highlight2 Row #7\cf0\highlight0\par
+\cf1\highlight2 11 37 53 74  \\\\EOL1 EOL2\cf0\highlight0\par
+\cf1\highlight2 Row #8\cf0\highlight0\par
+\cf1\highlight2 22 67  \\\\EOL1 EOL2\cf0\highlight0\par
+\cf1\highlight2 GAME: length = 9 & difficulty = 0\cf0\highlight0\par
+\cf1\highlight2 0 0 9 0 0 0 4 0 0 \cf0\highlight0\par
+\cf1\highlight2 0 4 0 2 0 1 0 7 0 \cf0\highlight0\par
+\cf1\highlight2 7 3 0 0 0 0 0 2 9 \cf0\highlight0\par
+\cf1\highlight2 0 0 6 5 0 9 1 0 0 \cf0\highlight0\par
+\cf1\highlight2 2 0 0 0 0 0 0 0 4 \cf0\highlight0\par
+\cf1\highlight2 0 0 4 3 0 8 5 0 0 \cf0\highlight0\par
+\cf1\highlight2 3 6 0 0 0 0 0 5 8 \cf0\highlight0\par
+\cf1\highlight2 0 1 0 7 0 3 0 4 0 \cf0\highlight0\par
+\cf1\highlight2 0 0 2 0 0 0 7 0 0 \cf0\highlight0\par
+\cf1\highlight2 BeaconClient.newGrid()\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.updateSquaresDisplay(51)\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 0; Top = 0; Bottom = 0\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.mouseClicked()\cf0\highlight0\par
+\cf1\highlight2   Clicked Square[0][7]\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.startClock()\cf0\highlight0\par
+\cf1\highlight2   Have Focus!\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.keyTyped = 4; int value = 52\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.updateSquaresDisplay(50)\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.mouseClicked()\cf0\highlight0\par
+\cf1\highlight2   Clicked Square[0][1]\cf0\highlight0\par
+\cf1\highlight2   Have Focus!\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.keyTyped = 8; int value = 56\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.updateSquaresDisplay(49)\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.mouseClicked()\cf0\highlight0\par
+\cf1\highlight2   Clicked Square[4][4]\cf0\highlight0\par
+\cf1\highlight2   Have Focus!\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.keyTyped = 6; int value = 54\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.updateSquaresDisplay(48)\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.mouseClicked()\cf0\highlight0\par
+\cf1\highlight2   Clicked Square[7][4]\cf0\highlight0\par
+\cf1\highlight2   Have Focus!\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.keyTyped = 2; int value = 50\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.updateSquaresDisplay(47)\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.mouseClicked()\cf0\highlight0\par
+\cf1\highlight2   Clicked Square[7][8]\cf0\highlight0\par
+\cf1\highlight2   Have Focus!\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.keyTyped = 1; int value = 49\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.updateSquaresDisplay(46)\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.mouseClicked()\cf0\highlight0\par
+\cf1\highlight2   Clicked Square[7][0]\cf0\highlight0\par
+\cf1\highlight2   Have Focus!\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.keyTyped = 7; int value = 55\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.updateSquaresDisplay(45)\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.mouseClicked()\cf0\highlight0\par
+\cf1\highlight2   Clicked Square[4][4]\cf0\highlight0\par
+\cf1\highlight2   Have Focus!\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.keyTyped = 0; int value = 48\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.updateSquaresDisplay(46)\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.mouseClicked()\cf0\highlight0\par
+\cf1\highlight2   Clicked Square[3][4]\cf0\highlight0\par
+\cf1\highlight2   Have Focus!\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.keyTyped = 3; int value = 51\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.updateSquaresDisplay(45)\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.mouseClicked()\cf0\highlight0\par
+\cf1\highlight2   Clicked Square[4][7]\cf0\highlight0\par
+\cf1\highlight2   Have Focus!\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.keyTyped = 6; int value = 54\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.updateSquaresDisplay(44)\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.mouseClicked()\cf0\highlight0\par
+\cf1\highlight2   Clicked Square[5][6]\cf0\highlight0\par
+\cf1\highlight2   Have Focus!\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.mouseClicked()\cf0\highlight0\par
+\cf1\highlight2   Clicked Square[5][5]\cf0\highlight0\par
+\cf1\highlight2   Have Focus!\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.mouseClicked()\cf0\highlight0\par
+\cf1\highlight2   Clicked Square[5][4]\cf0\highlight0\par
+\cf1\highlight2   Have Focus!\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.keyTyped = 7; int value = 55\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.updateSquaresDisplay(43)\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 ServListener ActionCommand: New Game\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.newGame()\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.newGrid()\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.updateSquaresDisplay(51)\cf0\highlight0\par
+\cf1\highlight2 BeaconClient.paint(): Left = 0; Right = 8; Top = 0; Bottom = 8\cf0\highlight0\par
+\cf1\highlight2 ServListener ActionCommand: EXIT\cf0\highlight0\par
+\cf1\highlight2 BeaconServer.halt()\cf0\highlight0\par
+\f1\par
+}
+ 

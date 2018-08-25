@@ -1,0 +1,2 @@
+
+Sweeper >java -cp . mhsjava/MineSweeper 1
