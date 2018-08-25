@@ -3,7 +3,7 @@
 *.zip
 *.bak
 /old*
-/BAK
+/BAK*
 /ark
 /Debug
 /Release
